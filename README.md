@@ -48,12 +48,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/deerborg/deerborg/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img height="500" src="https://media2.giphy.com/avatars/Munich-Gif-Sticker-King/NnwoKY9cigGT.gif"  />
 </div>
