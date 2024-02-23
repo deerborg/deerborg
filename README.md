@@ -43,8 +43,7 @@
 ###
 
 <div align="center">
-  <img src="![tumblr_e306b43776e5d6b29ec1b678db259f11_999c30cb_1280](https://github.com/deerborg/Patika_practices/assets/152931069/2a9401db-69c5-4575-8173-a0ececb7f7c1)
-"  />
+ <img src="https://profile-counter.glitch.me/deerborg/count.svg?"  />
 </div>
 
 ###
