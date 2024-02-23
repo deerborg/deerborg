@@ -49,7 +49,7 @@
 ###
 
 <div align="center">
-  <img height="500" src="https://media2.giphy.com/avatars/Munich-Gif-Sticker-King/NnwoKY9cigGT.gif"  />
+  <img height="500" src="[https://media2.giphy.com/avatars/Munich-Gif-Sticker-King/NnwoKY9cigGT.gif](https://github.com/deerborg/Patika_practices/assets/152931069/2502d839-8fcb-456f-a276-72b58888a6ac)https://github.com/deerborg/Patika_practices/assets/152931069/2502d839-8fcb-456f-a276-72b58888a6ac"/>
 </div>
 
 ###
