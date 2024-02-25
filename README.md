@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I'am Furkan Aydemir</h1>
+<h1 align="center">Furkan Aydemir|deerborg</h1>
 
 ###
 
