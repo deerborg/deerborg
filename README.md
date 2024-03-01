@@ -1,7 +1,8 @@
 <h1 align="center">Furkan Aydemir | deerborg</h1>
 
 ###
-
+![githubprofile](https://github.com/deerborg/MineSweeper/assets/152931069/3faec371-47a4-4372-8f53-5d6bc2923c4d)
+###
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=deerborg&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deerborg&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
