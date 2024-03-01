@@ -49,7 +49,7 @@
 ###
 
 <div align="center">
-  <img height="500" src="(https://github.com/deerborg/MineSweeper/assets/152931069/3faec371-47a4-4372-8f53-5d6bc2923c4d)"/>
+  <img height="500" src="https://avatars.githubusercontent.com/u/152931069?v=4"  />
 </div>
 
 ###
