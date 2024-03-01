@@ -3,8 +3,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deerborg&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deerborg&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=deerborg&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=highcontrast&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=deerborg&locale=en&mode=daily&theme=highcontrast&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deerborg&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -32,17 +33,6 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ffurkanaydemir/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.behance.net/deeborgh" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="behance logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
   <img src="https://profile-counter.glitch.me/deerborg/count.svg?"  />
 </div>
 
@@ -50,6 +40,17 @@
 
 <div align="center">
   <img height="500" src="https://avatars.githubusercontent.com/u/152931069?v=4"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/ffurkanaydemir/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="56" height="39" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.behance.net/deeborgh" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="56" height="39" alt="behance logo"  />
+  </a>
 </div>
 
 ###
