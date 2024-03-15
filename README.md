@@ -36,11 +36,6 @@
   <img src="https://profile-counter.glitch.me/deerborg/count.svg?"  />
 </div>
 
-###
-
-<div align="center">
-  <img height="500" src="https://avatars.githubusercontent.com/u/152931069?v=4"  />
-</div>
 
 ###
 
