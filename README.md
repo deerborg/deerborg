@@ -1,46 +1,24 @@
-<h1 align="center">Furkan Aydemir | deerborg</h1>
+<h3 align="left">Hi I'm Furkan or deerborg</h2>
+
+
+<img src ="g_banner2.png"/>
+<img src ="g_brand3.png"/>
+
+
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deerborg&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=highcontrast&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=deerborg&locale=en&mode=daily&theme=highcontrast&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deerborg&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=true" height="150" alt="languages graph"  />
-</div>
+I am a software developer graduated from the Department of Maritime Business Administration and Management. I have been involved in numerous projects and conducted research and internships in this field. However, my curiosity and passion have directed me towards the world of software development. Recently, I participated in the Java Bootcamp through the Patika+ Program to enhance my skills in software development, and I continue to strive for self-improvement.
+
+I have a strong foundation in backend technologies such as Java and Spring, and I have experience in developing modern web applications using JavaScript. Additionally, I am knowledgeable in database management, particularly SQL. I work towards solving complex problems and developing user-friendly solutions by utilizing these skills.
+
+Furthermore, I have expanded my expertise by using Adobe Creative Cloud products. I have gained proficiency in designing and enhancing visual presentations through tools like Adobe Photoshop, Premiere Pro, Adobe XD, and Adobe After Effects. I aim to continue developing applications that prioritize user experience and visual appeal by utilizing these tools and further enhancing my skills.
+
+Best regards.
 
 ###
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="50" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="50" alt="premierepro logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="50" alt="xd logo"  />
-</div>
 
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/deerborg/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="500" src="https://avatars.githubusercontent.com/u/152931069?v=4"  />
-</div>
 
 ###
 
@@ -54,3 +32,12 @@
 </div>
 
 ###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/deerborg/count.svg?"  />
+</div>
+
+###
+
+
+
