@@ -1,4 +1,4 @@
-###
+
 
 <img src ="header.png"/>
 <img src ="g_banner2.png"/>
@@ -7,8 +7,6 @@
 
 
 
-
-###
 
 I am a software developer graduated from the Department of Maritime Business Administration and Management. I have been involved in numerous projects and conducted research and internships in this field. However, my curiosity and passion have directed me towards the world of software development. Recently, I participated in the Java Bootcamp through the Patika+ Program to enhance my skills in software development, and I continue to strive for self-improvement.
 
@@ -42,5 +40,4 @@ Furthermore, I have expanded my expertise by using Adobe Creative Cloud products
   <img src="https://profile-counter.glitch.me/deerborg/count.svg?"  />
 </div>
 
-###
 
