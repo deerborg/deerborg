@@ -1,12 +1,12 @@
-
+###
 
 <img src ="header.png"/>
 <img src ="g_banner2.png"/>
-<img src ="g_brand3.png"/>
+<img src ="icons.png"/>
 
 
 
-
+###
 
 I am a software developer graduated from the Department of Maritime Business Administration and Management. I have been involved in numerous projects and conducted research and internships in this field. However, my curiosity and passion have directed me towards the world of software development. Recently, I participated in the Java Bootcamp through the Patika+ Program to enhance my skills in software development, and I continue to strive for self-improvement.
 
@@ -15,7 +15,7 @@ I have a strong foundation in backend technologies such as Java and Spring, and 
 Furthermore, I have expanded my expertise by using Adobe Creative Cloud products. I have gained proficiency in designing and enhancing visual presentations through tools like Adobe Photoshop, Premiere Pro, Adobe XD, and Adobe After Effects. I aim to continue developing applications that prioritize user experience and visual appeal by utilizing these tools and further enhancing my skills.
 
 
-
+###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ffurkanaydemir/" target="_blank">
