@@ -6,6 +6,8 @@
 
 
 
+
+
 ###
 
 I am a software developer graduated from the Department of Maritime Business Administration and Management. I have been involved in numerous projects and conducted research and internships in this field. However, my curiosity and passion have directed me towards the world of software development. Recently, I participated in the Java Bootcamp through the Patika+ Program to enhance my skills in software development, and I continue to strive for self-improvement.
@@ -14,19 +16,25 @@ I have a strong foundation in backend technologies such as Java and Spring, and 
 
 Furthermore, I have expanded my expertise by using Adobe Creative Cloud products. I have gained proficiency in designing and enhancing visual presentations through tools like Adobe Photoshop, Premiere Pro, Adobe XD, and Adobe After Effects. I aim to continue developing applications that prioritize user experience and visual appeal by utilizing these tools and further enhancing my skills.
 
-<img src ="gitHub_bottom.png"/>
 
 
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ffurkanaydemir/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="56" height="39" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.behance.net/deeborgh" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="56" height="39" alt="behance logo"  />
+   <img src ="lnk3.png"/>
   </a>
 </div>
+
+<div align="center">
+  <a href="https://www.behance.net/deeborgh" target="_blank">
+   <img src ="beh2.png"/>
+  </a>
+</div>
+
+
+
+<img src ="gitHub_bottom.png"/>
+
 
 ###
 
@@ -35,5 +43,4 @@ Furthermore, I have expanded my expertise by using Adobe Creative Cloud products
 </div>
 
 ###
-
 
