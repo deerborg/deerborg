@@ -14,7 +14,7 @@ I have a strong foundation in backend technologies such as Java and Spring, and 
 
 Furthermore, I have expanded my expertise by using Adobe Creative Cloud products. I have gained proficiency in designing and enhancing visual presentations through tools like Adobe Photoshop, Premiere Pro, Adobe XD, and Adobe After Effects. I aim to continue developing applications that prioritize user experience and visual appeal by utilizing these tools and further enhancing my skills.
 
-**Contact:** furkanaydem1r@hotmail.com
+**Contact:** furkanaydem1r@hotmail.com.
 
 ###
 
