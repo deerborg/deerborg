@@ -37,8 +37,6 @@ Besides coding, I have experience with Adobe Creative Cloud tools such as Photos
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/deerborg/count.svg?"  />
-</div>
+
 
 
